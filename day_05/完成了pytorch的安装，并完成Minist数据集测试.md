@@ -1,0 +1,1 @@
+完成了pytorch的安装，并完成Minist数据集测试
